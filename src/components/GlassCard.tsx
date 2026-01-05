@@ -19,7 +19,7 @@ export default function GlassCard({
   return (
     <motion.div
       whileHover={{ y: -8 }}
-      transition={{ duration: 0.3, ease: 'easeOut' }}
+      transition={{ duration: 0.3 }}
       className={`group relative rounded-2xl backdrop-blur-md bg-white/10 border border-white/20 p-6 transition-all duration-300 hover:bg-white/15 hover:border-white/30 hover:shadow-2xl hover:shadow-blue-500/10 ${className}`}
     >
       {/* Subtle glow effect on hover */}
