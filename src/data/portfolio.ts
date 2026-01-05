@@ -11,7 +11,7 @@ export const portfolioData = {
     linkedin: "https://linkedin.com/in/hariom-lapshetwar-764005114",
     email: "hariomlapshetwar@gmail.com",
     phone: "+1 3475530253",
-    resumeUrl: "https://example.com/resume.pdf",
+    resumeUrl: "/resume/Hariom-Resume.pdf",
   },
 
   // Solution Flow - How I work
